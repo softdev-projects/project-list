@@ -35,24 +35,12 @@
 
 ### Mini Projects
 
-### [Intro Project](https://github.com/stuycs-softdev/submissions/tree/master/6/intro-proj1/justin-mark)
-`https://github.com/stuycs-softdev/submissions.git`
-#### Team Members:
-* Justin Kim
-* Mark Norwich
-
----
-
-### [Regex](https://github.com/stuycs-softdev/submissions/tree/master/6/regexp/justin-lawrence)
-`https://github.com/stuycs-softdev/submissions.git`
-#### Team Members:
-* Justin Kim
-* Lawrence Lim
-
----
-
-### [MongoDB Login](https://github.com/cyntzhou/mongo)
-`https://github.com/cyntzhou/mongo.git`
-#### Team Members:
-* Justin Kim
-* Cynthia Zhou
+* Intro Project
+  * Justin Kim, Mark Norwich
+  * 6/intro-proj1/justin-mark
+* Regex
+  * Justin Kim, Lawrence Lim
+  * 6/regexp/justin-lawrence
+* MongoDB Login
+  * Justin Kim, Cynthia Zhou
+  * [https://github.com/cyntzhou/mongo]()
