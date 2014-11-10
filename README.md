@@ -12,6 +12,8 @@
 * Justin Kim
 * Maria Vasilkin
 
+This project took a question and analyzed multiple Google search results in an attempt to find the answer.
+
 ---
 
 ### [Blogging Engine](https://github.com/sophgersh/blog)
@@ -22,6 +24,8 @@
 * Justin Kim
 * Natan Zamansky
 
+This project provides a blog where users can publish posts and interact with others through comments on blog posts.
+
 ---
 
 ### [API Project](https://github.com/softdev-projects/mta-smart-alerts)
@@ -30,6 +34,8 @@
 * Eric Chen
 * Justin Kim
 * Genji Noguchi
+
+This thing isn't done yet.
 
 ---
 
