@@ -35,7 +35,28 @@ This project provides a blog where users can publish posts and interact with oth
 * Justin Kim
 * Genji Noguchi
 
-This thing isn't done yet.
+Visit the website to see immediately which trains are running and which are delayed.
+
+---
+
+### [Find the Invisible Cow (Javascript)](https://github.com/softdev-projects/avoid-the-invisible-ducks)
+`https://github.com/softdev-projects/avoid-the-invisible-ducks
+#### Team Members:
+* Eric Chen
+* Justin Kim
+
+Multiple ducks fly around the screen and you must avoid them in order to live.
+
+---
+
+### [Term 1 Final Project](https://github.com/breadcrumbs-app/breadcrumbs)
+  https://github.com/breadcrumbs-app/breadcrumbs
+#### Team Members:
+* Eric Chen
+* Justin Kim
+* Genji Noguchi
+
+As you roam the city, use our website/app to drop breadcrumbs that store geolocation data. Review your tracks later and share your day with your friends on Facebook.
 
 ---
 
