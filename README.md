@@ -4,6 +4,17 @@
 
 ### Main Projects
 
+### [Term 1 Final Project](https://github.com/breadcrumbs-app/breadcrumbs)
+  https://github.com/breadcrumbs-app/breadcrumbs
+#### Team Members:
+* Eric Chen
+* Justin Kim
+* Genji Noguchi
+
+As you roam the city, use our website/app to drop breadcrumbs that store geolocation data. Review your tracks later and share your day with your friends on Facebook.
+
+---
+
 ### [Regex and Data Scraping](https://github.com/AdamDeHovitz/J-A-M-A)
 `https://github.com/AdamDeHovitz/J-A-M-A.git`
 #### Team Members:
@@ -46,17 +57,6 @@ Visit the website to see immediately which trains are running and which are dela
 * Justin Kim
 
 Multiple ducks fly around the screen and you must avoid them in order to live.
-
----
-
-### [Term 1 Final Project](https://github.com/breadcrumbs-app/breadcrumbs)
-  https://github.com/breadcrumbs-app/breadcrumbs
-#### Team Members:
-* Eric Chen
-* Justin Kim
-* Genji Noguchi
-
-As you roam the city, use our website/app to drop breadcrumbs that store geolocation data. Review your tracks later and share your day with your friends on Facebook.
 
 ---
 
