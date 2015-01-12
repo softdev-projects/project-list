@@ -5,7 +5,7 @@
 ### Main Projects
 
 ### [Term 1 Final Project](https://github.com/breadcrumbs-app/breadcrumbs)
-  https://github.com/breadcrumbs-app/breadcrumbs
+`https://github.com/breadcrumbs-app/breadcrumbs`
 #### Team Members:
 * Eric Chen
 * Justin Kim
